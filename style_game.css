@@ -1,0 +1,24 @@
+
+.row div {
+	background-color: #42f4b9;
+	padding: 30px;
+	border: 1px solid black;
+	height: 30px;
+	width: 30px;
+	float: left;
+}
+
+.row {
+
+	clear: both;
+}
+
+h2 {
+
+	font-family: Aleo;
+}
+.cell {
+
+	font-family: Aleo;
+	font-size: 40px;
+}
